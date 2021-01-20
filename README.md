@@ -1,2 +1,2 @@
 # Equity_Research
-A deep dive into the HCV sector
+A deep dive into the Heavy Commercial Vehicles sector
